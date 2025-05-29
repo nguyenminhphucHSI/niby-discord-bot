@@ -64,7 +64,7 @@ El mejor handler **de la historia** de Discord.js en Español (y 17 idiomas más
 
 1. Clonado de repositorio
 ```bash
-git clone https://github.com/El-Mundo-de-Niby/handler-v14
+git clone https://github.com/dewstouh/niby-discord-bot
 ```
 
 2. Instalación de módulos
