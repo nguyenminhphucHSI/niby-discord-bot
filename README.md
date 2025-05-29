@@ -342,7 +342,7 @@ _Cada propiedad disponible en los comandos como PERMISSIONS, BOT_PERMISSIONS, CO
 
 ## 💛 Contribuciones
 
-Gracias por usar este código! Si quieres apoyarnos puedes hacerlo realizando una [donación a través de PayPal](https://paypal.me/mfdewstouh).
+Gracias por usar este código! Si quieres apoyarnos puedes hacerlo realizando una [donación a través de PayPal](https://paypal.me/elmundodeniby).
 
 Todas las donaciones serán utilizadas para mejorar el servicio, los bots, la calidad de los videos y su contenido. ¡Gracias!
 
